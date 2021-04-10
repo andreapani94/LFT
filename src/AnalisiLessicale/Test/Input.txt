@@ -1,0 +1,8 @@
+// commento semplice
+/* commento
+su più righe */
+x = 1200;y=1000
+abcd1234bs
+1234abcd
+0245
+

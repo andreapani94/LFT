@@ -1,0 +1,13 @@
+/*
+*/
+/**//**/
+/* Questo è un commento su una riga */
+/* Questi sono due commenti */ /* di fila sulla stessa riga */
+// Questo è un commento su una riga
+/* Questo è
+    un commento
+    su più righe */
+// @@###@@
+x_/* commento impertinente */2 = 100
+x*/y
+/*/
